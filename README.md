@@ -1,6 +1,7 @@
 # Music_Management_Website
 
 A Database Management project 
+
 The aim of this project is the development of a centralized relational Music website. 
 This website provides users to make accounts and utilize the software to access information about Music and songs. 
 This will be achieved by implementation of Database management  
